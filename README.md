@@ -1,4 +1,4 @@
-# 🐱‍👤 Buscador de Pokémon
+#Buscador de Pokémon
 
 ## Descripción
 
