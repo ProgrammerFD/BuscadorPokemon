@@ -23,7 +23,6 @@ La aplicación consume datos desde una API pública y muestra la información de
   - Estadísticas principales
 - Mostrar un mensaje de error cuando el Pokémon no exista.
 
----
 
 ## Tecnologías utilizadas
 
@@ -33,7 +32,7 @@ La aplicación consume datos desde una API pública y muestra la información de
 - Fetch API
 - PokeAPI
 
----
+
 
 ## API utilizada
 
@@ -45,7 +44,6 @@ Ejemplo de consulta:
 
 https://pokeapi.co/api/v2/pokemon/pikachu
 
----
 
 ## Estructura del proyecto
 
@@ -56,9 +54,6 @@ ProyectoPokemon/
 │── style.css
 │── script.js
 └── README.md
-```
-
----
 
 ## Cómo ejecutar el proyecto
 
